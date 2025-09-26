@@ -377,7 +377,55 @@ function copyResults() {
     });
 }
 ```
-## Step 11: Understanding the API Endpoint
+## Step 11: Running Your Project
+
+If you're using Codespace/Gitpod or any cloud based code editor, to start a simple server run: 
+
+```
+# Python (usually pre-installed)
+   python3 -m http.server 8000
+   
+   # Or Node.js
+   npx http-server -p 8000
+```
+
+But if you're on your PC/local Machine runing linux/ubuntu 
+
+And if you have Python or node.js installed (most computers do):
+
+```
+PYTHON
+
+# Navigate to your project folder
+cd your-project
+
+# Start server
+python -m http.server 8000
+# or python3 -m http.server 8000
+
+NODE.JS
+
+# One-time install
+npm install -g http-server
+
+# Start server
+http-server -p 8000
+```
+
+But if you don't have Python or Node.js: Install them with these commands:
+
+```
+# Update package list
+sudo apt update
+
+# Install Python
+sudo apt install python3
+
+# Or install Node.js
+sudo apt install nodejs npm
+```
+
+## Step 12: Understanding the API Endpoint
 
 When you send a request to ROMA's /api/simple/execute endpoint, you need to include these key fields:
 
