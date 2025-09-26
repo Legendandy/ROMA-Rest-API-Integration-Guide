@@ -208,6 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
     copyBtn.addEventListener('click', copyResults);
 });
 ```
+Change <http://localhost:5000> to your ROMA BACKEND URL depending on your configurations. If you're running ROMA on a VPS, avoid using reverse proxy to get a public URL because of http timeouts
 
 ## Step 6: Building the Research Function
 
