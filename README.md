@@ -4,7 +4,7 @@ This guide will teach you how to integrate ROMA into your applications using sim
 
 ## Prerequisites
 
-You need to have ROMA running on your local machine or a VPS server preferably. 
+You need to have ROMA backend running on your local machine or a VPS server preferably. 
 
 If you don't have ROMA running yet, make sure it's running and accessible at your chosen URL (typically <http://localhost:5000> for your local machine)
 
