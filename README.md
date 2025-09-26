@@ -10,7 +10,7 @@ If you don't have ROMA running yet, make sure it's running and accessible at you
 
 And <http://YOUR.VPS.IP:5000> for your VPS server, only if set it up UFW 
 
-If you don't know how to use unconfirmed firewall (UFW) to get a public URL for your VPS server, read this guide: <a href="https://github.com/Legendandy/ROMA-VPS-Guide-How-to-Tunnel-ROMA-Localhost-Frontend-to-a-Public-URL/blob/main/README.md">Turn Your Localhost URL into a Public Url</a>  
+If you don't know how to set up unconfirmed firewall (UFW) to get a public URL for your VPS server, read this guide: <a href="https://github.com/Legendandy/ROMA-VPS-Guide-How-to-Tunnel-ROMA-Localhost-Frontend-to-a-Public-URL/blob/main/README.md">Turn Your Localhost URL into a Public Url</a>  
 
 If you already have your backend url, then let's begin
 
