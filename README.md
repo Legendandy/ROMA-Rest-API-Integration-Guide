@@ -50,7 +50,7 @@ your-project/
 
 ## Step 3: Create the HTML Interface
 
-First, let's create a simple web page where users can input their research queries. Create a file called index.html in your project folder:
+First, let's create a simple web page where users can input their research queries. Create a file called index.html in your project folder and input this code:
 
 ```
 <!DOCTYPE html>
