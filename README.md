@@ -6,11 +6,11 @@ This guide will teach you how to integrate ROMA into your applications using sim
 
 You need to have ROMA running on your local machine or a VPS server preferably. 
 
-If you don't have ROMA set up yet, make sure it's running and accessible at your chosen URL (typically http://localhost:5000 for your local machine)
+If you don't have ROMA running yet, make sure it's running and accessible at your chosen URL (typically <http://localhost:5000> for your local machine)
 
-And http://YOUR.VPS.IP:5000 for your VPS server. 
+And <http://YOUR.VPS.IP:5000> for your VPS server, if set set it up with UFW 
 
-If you don't know how to use unconfirmed firewall to get a public URL for your VPS server, visit this guide: <a href="https://github.com/Legendandy/ROMA-VPS-Guide-How-to-Tunnel-ROMA-Localhost-Frontend-to-a-Public-URL/blob/main/README.md">Turn Your Localhost URL into a Public Url</a>  
+If you don't know how to use unconfirmed firewall (UFW) to get a public URL for your VPS server, read this guide: <a href="https://github.com/Legendandy/ROMA-VPS-Guide-How-to-Tunnel-ROMA-Localhost-Frontend-to-a-Public-URL/blob/main/README.md">Turn Your Localhost URL into a Public Url</a>  
 
 If you already have your backend url, then let's begin
 
