@@ -8,7 +8,7 @@ You need to have ROMA running on your local machine or a VPS server preferably.
 
 If you don't have ROMA running yet, make sure it's running and accessible at your chosen URL (typically <http://localhost:5000> for your local machine)
 
-And <http://YOUR.VPS.IP:5000> for your VPS server, if set set it up with UFW 
+And <http://YOUR.VPS.IP:5000> for your VPS server, only if set it up UFW 
 
 If you don't know how to use unconfirmed firewall (UFW) to get a public URL for your VPS server, read this guide: <a href="https://github.com/Legendandy/ROMA-VPS-Guide-How-to-Tunnel-ROMA-Localhost-Frontend-to-a-Public-URL/blob/main/README.md">Turn Your Localhost URL into a Public Url</a>  
 
